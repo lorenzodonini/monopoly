@@ -1,0 +1,392 @@
+<Project>
+  <Name>Design</Name>
+  <ProjectItem type="NClass.DiagramEditor.ClassDiagram.Diagram" assembly="NClass.DiagramEditor, Version=2.4.1823.0, Culture=neutral, PublicKeyToken=null">
+    <Name>Model</Name>
+    <Language>CSharp</Language>
+    <Entities>
+      <Entity type="Class">
+        <Name>Giocatore</Name>
+        <Access>Public</Access>
+        <Location left="130" top="799" />
+        <Size width="354" height="434" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">private readonly string _nome</Member>
+        <Member type="Field">private decimal _capitale</Member>
+        <Member type="Field">readonly string _segnalino</Member>
+        <Member type="Field">bool _inPrigione</Member>
+        <Member type="Field">bool _attivo</Member>
+        <Member type="Field">Casella _posizioneCorrente</Member>
+        <Member type="Field">List&lt;Terreno&gt; _terreni</Member>
+        <Member type="Field">Dictionary&lt;string, int&gt; _terreniPerGruppo</Member>
+        <Member type="Constructor">public Giocatore(string nome, int capitale, string segnalino)</Member>
+        <Member type="Property">public string Nome { get; }</Member>
+        <Member type="Property">public decimal Capitale { get; }</Member>
+        <Member type="Property">public string Segnalino { get; }</Member>
+        <Member type="Property">public bool InPrigione { get; set; }</Member>
+        <Member type="Property">public bool Attivo { get; set; }</Member>
+        <Member type="Property">public Casella PosizioneCorrente { get; set; }</Member>
+        <Member type="Property">public List&lt;Terreno&gt; Terreni { get; }</Member>
+        <Member type="Property">public Dictionary&lt;string, int&gt; TerreniPerGruppo { get; }</Member>
+        <Member type="Method">public void IncrementaCapitale(decimal importo)</Member>
+        <Member type="Method">public void DecrementaCapitale(decimal importo)</Member>
+        <Member type="Method">public virtual void AcquistaTerreno(Terreno terreno)</Member>
+        <Member type="Method">public virtual void VendiTerreno(Terreno terreno)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Casella</Name>
+        <Access>Public</Access>
+        <Location left="790" top="476" />
+        <Size width="284" height="217" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">readonly int _id</Member>
+        <Member type="Field">readonly string _nome</Member>
+        <Member type="Constructor">protected Casella(int id, string nome)</Member>
+        <Member type="Property">public int Id { get; }</Member>
+        <Member type="Property">public string Nome { get; }</Member>
+        <Member type="Method">public abstract void EseguiOperazione(Giocatore giocatore)</Member>
+        <Modifier>Abstract</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Terreno</Name>
+        <Access>Public</Access>
+        <Location left="495" top="1315" />
+        <Size width="669" height="349" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">protected static int _indiceAffittoBase</Member>
+        <Member type="Field">readonly decimal [] _valoriDiAffitto</Member>
+        <Member type="Field">decimal _valore</Member>
+        <Member type="Field">decimal _valoreDiVendita</Member>
+        <Member type="Field">decimal _affitto</Member>
+        <Member type="Field">Giocatore _proprietario</Member>
+        <Member type="Field">readonly string _nomeGruppo</Member>
+        <Member type="Constructor">protected Terreno(int id, string nome, decimal valore, decimal valoreDiVendita, decimal [] valoriDiAffito, string nomeGruppo)</Member>
+        <Member type="Property">public decimal [] ValoriDiAffitto { get; }</Member>
+        <Member type="Property">public decimal Valore { get; }</Member>
+        <Member type="Property">public decimal ValoreDiVendita { get; }</Member>
+        <Member type="Property">public decimal Affitto { get; set; }</Member>
+        <Member type="Property">public Giocatore Proprietario { get; set; }</Member>
+        <Member type="Property">public string NomeGruppo { get; }</Member>
+        <Member type="Method">public abstract override void EseguiOperazione()</Member>
+        <Member type="Method">public abstract void AggiornaAffitto(int terreniDelGruppo)</Member>
+        <Modifier>Abstract</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Tassa</Name>
+        <Access>Public</Access>
+        <Location left="1286" top="307" />
+        <Size width="280" height="162" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">decimal _importo</Member>
+        <Member type="Constructor">public Tassa(int id, string tipoTassa, decimal importo)</Member>
+        <Member type="Property">public decimal Importo { get; }</Member>
+        <Member type="Method">public override void EseguiOperazione()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>ParcheggioGratuito</Name>
+        <Access>Public</Access>
+        <Location left="1286" top="529" />
+        <Size width="282" height="111" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public ParcheggioGratuito(int id)</Member>
+        <Member type="Method">public override void EseguiOperazione()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Via</Name>
+        <Access>Public</Access>
+        <Location left="1286" top="902" />
+        <Size width="283" height="145" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">readonly decimal _indennità</Member>
+        <Member type="Constructor">public Via(int id, decimal indennità)</Member>
+        <Member type="Property">public decimal Indennità { get; }</Member>
+        <Member type="Method">public override void EseguiOperazione()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Prigione</Name>
+        <Access>Public</Access>
+        <Location left="1286" top="706" />
+        <Size width="285" height="145" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">readonly decimal _cauzione</Member>
+        <Member type="Constructor">public Prigione(int id, decimal cauzione)</Member>
+        <Member type="Property">public decimal Cauzione { get; }</Member>
+        <Member type="Method">public override void EseguiOperazione()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>VaiInPrigione</Name>
+        <Access>Public</Access>
+        <Location left="1286" top="135" />
+        <Size width="283" height="126" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public VaiInPrigione(int id)</Member>
+        <Member type="Method">public override void EseguiOperazione()</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>TavolaGioco</Name>
+        <Access>Public</Access>
+        <Location left="399" top="30" />
+        <Size width="421" height="332" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">Casella [] _caselle</Member>
+        <Member type="Field">Carta [] _imprevisti</Member>
+        <Member type="Field">Carta [] _probabilità</Member>
+        <Member type="Field">int _cimaProbabilità</Member>
+        <Member type="Field">int _cimaImprevisti</Member>
+        <Member type="Field">readonly Dictionary&lt;string, int&gt; _gruppi</Member>
+        <Member type="Constructor">public TavolaGioco(Casella [] caselle, Carta [] imprevisti, Carta [] probabilità)</Member>
+        <Member type="Property">public Carta [] Imprevisti { get; }</Member>
+        <Member type="Property">public Carta [] Probabilità { get; }</Member>
+        <Member type="Property">public Casella Caselle { get; }</Member>
+        <Member type="Property">public int CimaProbabilità { get; }</Member>
+        <Member type="Property">public int CimaImprevisti { get; }</Member>
+        <Member type="Property">public Dictionary&lt;string, int&gt; Gruppi { get; }</Member>
+        <Member type="Method">public virtual Carta GetCartaPerTipo(int tipo)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>Carta</Name>
+        <Access>Public</Access>
+        <Location left="173" top="476" />
+        <Size width="296" height="233" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">TipoCarta _tipo</Member>
+        <Member type="Field">string _istruzioni</Member>
+        <Member type="Constructor">public Carta(int tipo, string istruzioni)</Member>
+        <Member type="Property">public TipoCarta Tipo { get; }</Member>
+        <Member type="Property">public string Istruzioni { get; set; }</Member>
+        <Member type="Method">public void EseguiOperazione(Giocatore giocatore)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>TerrenoSpeciale</Name>
+        <Access>Public</Access>
+        <Location left="99" top="1958" />
+        <Size width="604" height="128" />
+        <Collapsed>False</Collapsed>
+        <Member type="Constructor">public TerrenoSpeciale(int id, string nome, decimal valore, decimal valoreDiVendita, decimal [] valoriDiAffitto)</Member>
+        <Member type="Method">public override void AggiornaAffitto(int terreniDelGruppo)</Member>
+        <Member type="Method">public override void EseguiOperazione(Giocatore giocatore)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Class">
+        <Name>TerrenoNormale</Name>
+        <Access>Public</Access>
+        <Location left="783" top="1958" />
+        <Size width="787" height="264" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">static int _maxEdifici</Member>
+        <Member type="Field">decimal _prezzoCostruzioneEdificio</Member>
+        <Member type="Field">int _numeroEdifici</Member>
+        <Member type="Constructor">public TerrenoNormale(int id, string nome, decimal valore, decimal valoreDiVendita, decimal [] valoriDiAffito, decimal prezzoCostruzioneEdificio)</Member>
+        <Member type="Method">public void CostruisciEdificio()</Member>
+        <Member type="Method">public void DemolisciEdificio()</Member>
+        <Member type="Property">public int NumeroEdifici { get; }</Member>
+        <Member type="Property">public decimal PrezzoCostruzioneEdificio { get; }</Member>
+        <Member type="Method">public virtual bool IsEdificabile(int terreniDelGruppo)</Member>
+        <Member type="Method">public override void AggiornaAffitto(int terreniDelGruppo)</Member>
+        <Member type="Method">public override void EseguiOperazione(Giocatore giocatore)</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+      <Entity type="Enum">
+        <Name>TipoCarta</Name>
+        <Access>Public</Access>
+        <Location left="36" top="193" />
+        <Size width="162" height="111" />
+        <Collapsed>False</Collapsed>
+        <Value>IMPREVISTI</Value>
+        <Value>PROBABILITA</Value>
+      </Entity>
+      <Entity type="Class">
+        <Name>CasellaEvento</Name>
+        <Access>Public</Access>
+        <Location left="1286" top="1103" />
+        <Size width="283" height="154" />
+        <Collapsed>False</Collapsed>
+        <Member type="Field">readonly TipoCarta _tipo</Member>
+        <Member type="Method">public void EseguiOperazione()</Member>
+        <Member type="Constructor">public CasellaEvento(int id, decimal indennità, TipoCarta tipo)</Member>
+        <Member type="Property">public TipoCarta Tipo { get; }</Member>
+        <Modifier>None</Modifier>
+      </Entity>
+    </Entities>
+    <Relationships>
+      <Relationship type="Association" first="0" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>è posizionato</EndRole>
+        <StartMultiplicity>*</StartMultiplicity>
+        <EndMultiplicity>0..1</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Generalization" first="2" second="1">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>831</X>
+          <Y>1256</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>1187</X>
+          <Y>597</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Generalization" first="3" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1261</X>
+          <Y>394</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>1115</X>
+          <Y>597</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Generalization" first="7" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1250</X>
+          <Y>204</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>1126</X>
+          <Y>597</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Generalization" first="4" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1253</X>
+          <Y>597</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>1125</X>
+          <Y>597</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Generalization" first="6" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1236</X>
+          <Y>796</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>1140</X>
+          <Y>597</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Generalization" first="5" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1220</X>
+          <Y>995</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>1155</X>
+          <Y>597</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Association" first="0" second="2">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>298</X>
+          <Y>1263</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>347</X>
+          <Y>1528</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <StartRole>-_proprietario</StartRole>
+        <StartMultiplicity>0..1</StartMultiplicity>
+        <EndMultiplicity>*</EndMultiplicity>
+      </Relationship>
+      <Relationship type="Association" first="8" second="9">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>362</X>
+          <Y>176</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>302</X>
+          <Y>429</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+      </Relationship>
+      <Relationship type="Association" first="8" second="1">
+        <Label>
+        </Label>
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>909</X>
+          <Y>176</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>931</X>
+          <Y>451</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+      </Relationship>
+      <Relationship type="Generalization" first="10" second="2">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="False">
+          <X>812</X>
+          <Y>1689</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Generalization" first="11" second="2">
+        <StartOrientation>Vertical</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1193</X>
+          <Y>1933</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>811</X>
+          <Y>1689</Y>
+        </BendPoint>
+      </Relationship>
+      <Relationship type="Association" first="9" second="12">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Vertical</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>103</X>
+          <Y>601</Y>
+        </BendPoint>
+        <Direction>Unidirectional</Direction>
+        <AssociationType>Association</AssociationType>
+        <EndRole>-_tipo</EndRole>
+      </Relationship>
+      <Relationship type="Generalization" first="13" second="1">
+        <StartOrientation>Horizontal</StartOrientation>
+        <EndOrientation>Horizontal</EndOrientation>
+        <BendPoint relativeToStartShape="True">
+          <X>1212</X>
+          <Y>1195</Y>
+        </BendPoint>
+        <BendPoint relativeToStartShape="False">
+          <X>1165</X>
+          <Y>598</Y>
+        </BendPoint>
+      </Relationship>
+    </Relationships>
+  </ProjectItem>
+</Project>

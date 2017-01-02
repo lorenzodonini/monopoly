@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<Monopoli>
+  <MaxPlayers>6</MaxPlayers>
+  <MinPlayers>2</MinPlayers>
+  <CurrencySymbol>&#x20AC;</CurrencySymbol>
+  <InitialMoney>
+    <Money playersNum="2">8750</Money>
+    <Money playersNum="3">7500</Money>
+    <Money playersNum="4">6250</Money>
+    <Money playersNum="5">5000</Money>
+    <Money playersNum="6">3750</Money>
+  </InitialMoney>
+  <InitialDeeds>
+    <DeedNum playersNum="2">7</DeedNum>
+    <DeedNum playersNum="3">6</DeedNum>
+    <DeedNum playersNum="4">5</DeedNum>
+    <DeedNum playersNum="5">4</DeedNum>
+    <DeedNum playersNum="6">3</DeedNum>
+  </InitialDeeds>
+  <Markers>
+    <Marker>Pera</Marker>
+    <Marker>Candela</Marker>
+    <Marker>Cactus</Marker>
+    <Marker>Botte</Marker>
+    <Marker>Funghetto</Marker>
+    <Marker>Palla</Marker>
+  </Markers>
+  <Cells>
+    <Cell position='0' type='Corner' model='Via'>
+      <Name>Via</Name>
+      <Value>500</Value>
+      <Image>via</Image>
+    </Cell>
+    <Cell position='1' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Vicolo Corto</Name>
+      <Group>Fuchsia</Group>
+      <Value>150</Value>
+      <SellValue>75</SellValue>
+      <Rent houseNum='0'>5</Rent>
+      <Rent houseNum='1'>25</Rent>
+      <Rent houseNum='2'>75</Rent>
+      <Rent houseNum='3'>225</Rent>
+      <Rent houseNum='4'>400</Rent>
+      <Rent houseNum='5'>625</Rent>
+      <HouseCost>125</HouseCost>
+    </Cell>
+    <Cell position='2' type='Chance' model='Probabilità'>
+      <Name>Probabilità</Name>
+      <Image>probabilità</Image>
+    </Cell>
+    <Cell position='3' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Vicolo Stretto</Name>
+      <Group>Fuchsia</Group>
+      <Value>150</Value>
+      <SellValue>75</SellValue>
+      <Rent houseNum='0'>10</Rent>
+      <Rent houseNum='1'>50</Rent>
+      <Rent houseNum='2'>150</Rent>
+      <Rent houseNum='3'>450</Rent>
+      <Rent houseNum='4'>800</Rent>
+      <Rent houseNum='5'>1125</Rent>
+      <HouseCost>125</HouseCost>
+    </Cell>
+    <Cell position='4' type='Tax' model='Tassa'>
+      <Name>Tassa Patrimoniale</Name>
+      <Value>500</Value>
+      <Image>tassaPatrimoniale</Image>
+    </Cell>
+    <Cell position='5' type='SpecialProperty' model='TerrenoSpeciale'>
+      <Name>Stazione Sud</Name>
+      <Group>Stazioni</Group>
+      <Value>480</Value>
+      <SellValue>240</SellValue>
+      <Rent propertyNum='1'>60</Rent>
+      <Rent propertyNum='2'>120</Rent>
+      <Rent propertyNum='3'>240</Rent>
+      <Rent propertyNum='4'>480</Rent>
+      <Image>stazione</Image>
+    </Cell>
+    <Cell position='6' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Bastioni Gran Sasso</Name>
+      <Group>DeepSkyBlue</Group>
+      <Value>250</Value>
+      <SellValue>125</SellValue>
+      <Rent houseNum='0'>15</Rent>
+      <Rent houseNum='1'>75</Rent>
+      <Rent houseNum='2'>225</Rent>
+      <Rent houseNum='3'>675</Rent>
+      <Rent houseNum='4'>1000</Rent>
+      <Rent houseNum='5'>1375</Rent>
+      <HouseCost>125</HouseCost>
+    </Cell>
+    <Cell position='7' type='Chance' model='Imprevisti'>
+      <Name>Imprevisti</Name>
+      <Image>imprevisti</Image>
+    </Cell>
+    <Cell position='8' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Viale Monterosa</Name>
+      <Group>DeepSkyBlue</Group>
+      <Value>250</Value>
+      <SellValue>125</SellValue>
+      <Rent houseNum='0'>15</Rent>
+      <Rent houseNum='1'>75</Rent>
+      <Rent houseNum='2'>225</Rent>
+      <Rent houseNum='3'>675</Rent>
+      <Rent houseNum='4'>1000</Rent>
+      <Rent houseNum='5'>1375</Rent>
+      <HouseCost>125</HouseCost>
+    </Cell>
+    <Cell position='9' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Viale Vesuvio</Name>
+      <Group>DeepSkyBlue</Group>
+      <Value>300</Value>
+      <SellValue>150</SellValue>
+      <Rent houseNum='0'>20</Rent>
+      <Rent houseNum='1'>100</Rent>
+      <Rent houseNum='2'>250</Rent>
+      <Rent houseNum='3'>750</Rent>
+      <Rent houseNum='4'>1125</Rent>
+      <Rent houseNum='5'>1500</Rent>
+      <HouseCost>125</HouseCost>
+    </Cell>
+    <Cell position='10' type='Corner' model='Prigione'>
+      <Name>Prigione</Name>
+      <Value>125</Value>
+      <Image>prigione</Image>
+    </Cell>
+    <Cell position='11' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Via Accademia</Name>
+      <Group>Orange</Group>
+      <Value>350</Value>
+      <SellValue>175</SellValue>
+      <Rent houseNum='0'>25</Rent>
+      <Rent houseNum='1'>125</Rent>
+      <Rent houseNum='2'>375</Rent>
+      <Rent houseNum='3'>1125</Rent>
+      <Rent houseNum='4'>1550</Rent>
+      <Rent houseNum='5'>1875</Rent>
+      <HouseCost>250</HouseCost>
+    </Cell>
+    <Cell position='12' type='SpecialProperty' model='TerrenoSpeciale'>
+      <Name>Società Elettrica</Name>
+      <Group>Società</Group>
+      <Value>380</Value>
+      <SellValue>190</SellValue>
+      <Rent propertyNum='1'>50</Rent>
+      <Rent propertyNum='2'>250</Rent>
+      <Image>societàElettrica</Image>
+    </Cell>
+    <Cell position='13' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Corso Ateneo</Name>
+      <Group>Orange</Group>
+      <Value>350</Value>
+      <SellValue>175</SellValue>
+      <Rent houseNum='0'>25</Rent>
+      <Rent houseNum='1'>125</Rent>
+      <Rent houseNum='2'>375</Rent>
+      <Rent houseNum='3'>1125</Rent>
+      <Rent houseNum='4'>1550</Rent>
+      <Rent houseNum='5'>1875</Rent>
+      <HouseCost>250</HouseCost>
+    </Cell>
+    <Cell position='14' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Piazza Università</Name>
+      <Group>Orange</Group>
+      <Value>400</Value>
+      <SellValue>200</SellValue>
+      <Rent houseNum='0'>30</Rent>
+      <Rent houseNum='1'>150</Rent>
+      <Rent houseNum='2'>450</Rent>
+      <Rent houseNum='3'>1250</Rent>
+      <Rent houseNum='4'>1750</Rent>
+      <Rent houseNum='5'>2250</Rent>
+      <HouseCost>250</HouseCost>
+    </Cell>
+    <Cell position='15' type='SpecialProperty' model='TerrenoSpeciale'>
+      <Name>Stazione Ovest</Name>
+      <Group>Stazioni</Group>
+      <Value>480</Value>
+      <SellValue>240</SellValue>
+      <Rent propertyNum='1'>60</Rent>
+      <Rent propertyNum='2'>120</Rent>
+      <Rent propertyNum='3'>240</Rent>
+      <Rent propertyNum='4'>480</Rent>
+      <Image>stazione</Image>
+    </Cell>
+    <Cell position='16' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Piazza Verdi</Name>
+      <Group>Brown</Group>
+      <Value>450</Value>
+      <SellValue>225</SellValue>
+      <Rent houseNum='0'>35</Rent>
+      <Rent houseNum='1'>175</Rent>
+      <Rent houseNum='2'>500</Rent>
+      <Rent houseNum='3'>1375</Rent>
+      <Rent houseNum='4'>1875</Rent>
+      <Rent houseNum='5'>2375</Rent>
+      <HouseCost>250</HouseCost>
+    </Cell>
+    <Cell position='17' type='Chance' model='Probabilità'>
+      <Name>Probabilità</Name>
+      <Image>probabilità</Image>
+    </Cell>
+    <Cell position='18' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Corso Raffaello</Name>
+      <Group>Brown</Group>
+      <Value>450</Value>
+      <SellValue>225</SellValue>
+      <Rent houseNum='0'>35</Rent>
+      <Rent houseNum='1'>175</Rent>
+      <Rent houseNum='2'>500</Rent>
+      <Rent houseNum='3'>1375</Rent>
+      <Rent houseNum='4'>1875</Rent>
+      <Rent houseNum='5'>2375</Rent>
+      <HouseCost>250</HouseCost>
+    </Cell>
+    <Cell position='19' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Piazza Dante</Name>
+      <Group>Brown</Group>
+      <Value>500</Value>
+      <SellValue>250</SellValue>
+      <Rent houseNum='0'>40</Rent>
+      <Rent houseNum='1'>200</Rent>
+      <Rent houseNum='2'>550</Rent>
+      <Rent houseNum='3'>1500</Rent>
+      <Rent houseNum='4'>2000</Rent>
+      <Rent houseNum='5'>2500</Rent>
+      <HouseCost>250</HouseCost>
+    </Cell>
+    <Cell position='20' type='Corner' model='ParcheggioGratuito'>
+      <Name>Parcheggio Gratuito</Name>
+      <Image>parcheggio</Image>
+    </Cell>
+    <Cell position='21' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Via Marco Polo</Name>
+      <Group>Red</Group>
+      <Value>550</Value>
+      <SellValue>275</SellValue>
+      <Rent houseNum='0'>45</Rent>
+      <Rent houseNum='1'>225</Rent>
+      <Rent houseNum='2'>625</Rent>
+      <Rent houseNum='3'>1750</Rent>
+      <Rent houseNum='4'>2200</Rent>
+      <Rent houseNum='5'>2625</Rent>
+      <HouseCost>375</HouseCost>
+    </Cell>
+    <Cell position='22' type='Chance' model='Imprevisti'>
+      <Name>Imprevisti</Name>
+      <Image>imprevisti</Image>
+    </Cell>
+    <Cell position='23' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Corso Magellano</Name>
+      <Group>Red</Group>
+      <Value>550</Value>
+      <SellValue>275</SellValue>
+      <Rent houseNum='0'>45</Rent>
+      <Rent houseNum='1'>225</Rent>
+      <Rent houseNum='2'>625</Rent>
+      <Rent houseNum='3'>1750</Rent>
+      <Rent houseNum='4'>2200</Rent>
+      <Rent houseNum='5'>2625</Rent>
+      <HouseCost>375</HouseCost>
+    </Cell>
+    <Cell position='24' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Largo Colombo</Name>
+      <Group>Red</Group>
+      <Value>600</Value>
+      <SellValue>300</SellValue>
+      <Rent houseNum='0'>50</Rent>
+      <Rent houseNum='1'>250</Rent>
+      <Rent houseNum='2'>750</Rent>
+      <Rent houseNum='3'>1875</Rent>
+      <Rent houseNum='4'>2250</Rent>
+      <Rent houseNum='5'>2750</Rent>
+      <HouseCost>375</HouseCost>
+    </Cell>
+    <Cell position='25' type='SpecialProperty' model='TerrenoSpeciale'>
+      <Name>Stazione Nord</Name>
+      <Group>Stazioni</Group>
+      <Value>480</Value>
+      <SellValue>240</SellValue>
+      <Rent propertyNum='1'>60</Rent>
+      <Rent propertyNum='2'>120</Rent>
+      <Rent propertyNum='3'>240</Rent>
+      <Rent propertyNum='4'>480</Rent>
+      <Image>stazione</Image>
+    </Cell>
+    <Cell position='26' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Viale Costantino</Name>
+      <Group>Yellow</Group>
+      <Value>650</Value>
+      <SellValue>325</SellValue>
+      <Rent houseNum='0'>55</Rent>
+      <Rent houseNum='1'>275</Rent>
+      <Rent houseNum='2'>825</Rent>
+      <Rent houseNum='3'>2000</Rent>
+      <Rent houseNum='4'>2500</Rent>
+      <Rent houseNum='5'>3000</Rent>
+      <HouseCost>375</HouseCost>
+    </Cell>
+    <Cell position='27' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Viale Traiano</Name>
+      <Group>Yellow</Group>
+      <Value>650</Value>
+      <SellValue>325</SellValue>
+      <Rent houseNum='0'>55</Rent>
+      <Rent houseNum='1'>275</Rent>
+      <Rent houseNum='2'>825</Rent>
+      <Rent houseNum='3'>2000</Rent>
+      <Rent houseNum='4'>2500</Rent>
+      <Rent houseNum='5'>3000</Rent>
+      <HouseCost>375</HouseCost>
+    </Cell>
+    <Cell position='28' type='SpecialProperty' model='TerrenoSpeciale'>
+      <Name>Società Acqua Potabile</Name>
+      <Group>Società</Group>
+      <Value>380</Value>
+      <SellValue>190</SellValue>
+      <Rent propertyNum='1'>50</Rent>
+      <Rent propertyNum='2'>250</Rent>
+      <Image>societàAcquaPotabile</Image>
+    </Cell>
+    <Cell position='29' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Piazza Giulio Cesare</Name>
+      <Group>Yellow</Group>
+      <Value>700</Value>
+      <SellValue>350</SellValue>
+      <Rent houseNum='0'>60</Rent>
+      <Rent houseNum='1'>300</Rent>
+      <Rent houseNum='2'>900</Rent>
+      <Rent houseNum='3'>2125</Rent>
+      <Rent houseNum='4'>2625</Rent>
+      <Rent houseNum='5'>3125</Rent>
+      <HouseCost>375</HouseCost>
+    </Cell>
+    <Cell position='30' type='Corner' model='VaiInPrigione'>
+      <Name>Vai In Prigione</Name>
+      <Image>inPrigione</Image>
+    </Cell>
+    <Cell position='31' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Via Roma</Name>
+      <Group>Green</Group>
+      <Value>750</Value>
+      <SellValue>375</SellValue>
+      <Rent houseNum='0'>65</Rent>
+      <Rent houseNum='1'>325</Rent>
+      <Rent houseNum='2'>1000</Rent>
+      <Rent houseNum='3'>2250</Rent>
+      <Rent houseNum='4'>2750</Rent>
+      <Rent houseNum='5'>3250</Rent>
+      <HouseCost>500</HouseCost>
+    </Cell>
+    <Cell position='32' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Corso Impero</Name>
+      <Group>Green</Group>
+      <Value>750</Value>
+      <SellValue>375</SellValue>
+      <Rent houseNum='0'>65</Rent>
+      <Rent houseNum='1'>325</Rent>
+      <Rent houseNum='2'>1000</Rent>
+      <Rent houseNum='3'>2250</Rent>
+      <Rent houseNum='4'>2750</Rent>
+      <Rent houseNum='5'>3250</Rent>
+      <HouseCost>500</HouseCost>
+    </Cell>
+    <Cell position='33' type='Chance' model='Probabilità'>
+      <Name>Probabilità</Name>
+      <Image>probabilità</Image>
+    </Cell>
+    <Cell position='34' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Largo Augusto</Name>
+      <Group>Green</Group>
+      <Value>800</Value>
+      <SellValue>400</SellValue>
+      <Rent houseNum='0'>70</Rent>
+      <Rent houseNum='1'>375</Rent>
+      <Rent houseNum='2'>1125</Rent>
+      <Rent houseNum='3'>2500</Rent>
+      <Rent houseNum='4'>3000</Rent>
+      <Rent houseNum='5'>3500</Rent>
+      <HouseCost>500</HouseCost>
+    </Cell>
+    <Cell position='35' type='SpecialProperty' model='TerrenoSpeciale'>
+      <Name>Stazione Est</Name>
+      <Group>Stazioni</Group>
+      <Value>480</Value>
+      <SellValue>240</SellValue>
+      <Rent propertyNum='1'>60</Rent>
+      <Rent propertyNum='2'>120</Rent>
+      <Rent propertyNum='3'>240</Rent>
+      <Rent propertyNum='4'>480</Rent>
+      <Image>stazione</Image>
+    </Cell>
+    <Cell position='36' type='Chance' model='Imprevisti'>
+      <Name>Imprevisti</Name>
+      <Image>imprevisti</Image>
+    </Cell>
+    <Cell position='37' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Viale Dei Giardini</Name>
+      <Group>Purple</Group>
+      <Value>900</Value>
+      <SellValue>450</SellValue>
+      <Rent houseNum='0'>90</Rent>
+      <Rent houseNum='1'>500</Rent>
+      <Rent houseNum='2'>1250</Rent>
+      <Rent houseNum='3'>2750</Rent>
+      <Rent houseNum='4'>3250</Rent>
+      <Rent houseNum='5'>3750</Rent>
+      <HouseCost>500</HouseCost>
+    </Cell>
+    <Cell position='38' type='Tax' model='Tassa'>
+      <Name>Tassa di Lusso</Name>
+      <Value>250</Value>
+      <Image>tassaDiLusso</Image>
+    </Cell>
+    <Cell position='39' type='CommonProperty' model='TerrenoNormale'>
+      <Name>Parco Della Vittoria</Name>
+      <Group>Purple</Group>
+      <Value>1000</Value>
+      <SellValue>500</SellValue>
+      <Rent houseNum='0'>125</Rent>
+      <Rent houseNum='1'>500</Rent>
+      <Rent houseNum='2'>1500</Rent>
+      <Rent houseNum='3'>3500</Rent>
+      <Rent houseNum='4'>4250</Rent>
+      <Rent houseNum='5'>5000</Rent>
+      <HouseCost>500</HouseCost>
+    </Cell>
+  </Cells>
+
+  <Cards>
+    <Card type='Probabilità' action='CartaRicevi'>
+      <Instruction>Rimborso tassa sul reddito: ritirate &#x20AC; 50 dalla Banca</Instruction>
+      <Value>50</Value>
+    </Card>
+    <Card type='Probabilità' action='CartaRicevi'>
+      <Instruction>Avete vinto il secondo premio in un concorso di bellezza: ritirate &#x20AC; 25</Instruction>
+      <Value>25</Value>
+    </Card>
+    <Card type='Probabilità' action='CartaRicevi'>
+      <Instruction>&#200; maturata la cedola delle vostre azioni: ritirate &#x20AC; 60</Instruction>
+      <Value>60</Value>
+    </Card>
+    <Card type='Probabilità' action='CartaRicevi'>
+      <Instruction>Avete venduto delle azioni: ricavate &#x20AC; 125</Instruction>
+      <Value>125</Value>
+    </Card>
+    <Card type='Probabilità' action='CartaRicevi'>
+      <Instruction>Ereditate da un lontano parente &#x20AC; 250</Instruction>
+      <Value>250</Value>
+    </Card>
+    <Card type='Probabilità' action='CartaRicevi'>
+      <Instruction>Avete vinto un premio di consolazione alla Lotteria di Merano: ritirate &#x20AC; 250</Instruction>
+      <Value>250</Value>
+    </Card>
+    <Card type='Probabilità' action='CartaRicevi'>
+      <Instruction>Siete creditori verso la Banca di &#x20AC; 500: ritirateli</Instruction>
+      <Value>500</Value>
+    </Card>
+    <Card type='Imprevisti' action='CartaRicevi'>
+      <Instruction>Avete vinto un terno al lotto: ritirate &#x20AC; 250</Instruction>
+      <Value>250</Value>
+    </Card>
+    <Card type='Imprevisti' action='CartaRicevi'>
+      <Instruction>Maturano le cedole delle vostre cartelle di rendita, ritirate &#x20AC; 375</Instruction>
+      <Value>375</Value>
+    </Card>
+    <Card type='Imprevisti' action='CartaRicevi'>
+      <Instruction>La Banca vi paga gli interessi del vostro Conto Corrente, ritirate &#x20AC; 125</Instruction>
+      <Value>125</Value>
+    </Card>
+    <Card type='Probabilità' action='CartaPaga'>
+      <Instruction>Avete perso una causa: pagate &#x20AC; 250</Instruction>
+      <Value>250</Value>
+    </Card>
+    <Card type='Probabilità' action='CartaPaga'>
+      <Instruction>Scade il vostro premio di assicurazione: pagate &#x20AC; 125</Instruction>
+      <Value>125</Value>
+    </Card>
+    <Card type='Probabilità' action='CartaPaga'>
+      <Instruction>Pagate il conto del Dottore: &#x20AC; 125</Instruction>
+      <Value>125</Value>
+    </Card>
+    <Card type='Imprevisti' action='CartaPaga'>
+      <Instruction>Versate &#x20AC; 50 per beneficienza</Instruction>
+      <Value>50</Value>
+    </Card>
+    <Card type='Imprevisti' action='CartaPaga'>
+      <Instruction>Matrimonio in famiglia: spese impreviste &#x20AC; 375</Instruction>
+      <Value>375</Value>
+    </Card>
+    <Card type='Imprevisti' action='CartaPaga'>
+      <Instruction>Multa di &#x20AC; 40 per aver guidato senza patente</Instruction>
+      <Value>40</Value>
+    </Card>
+    <Card type='Imprevisti' action='CartaPagaPerEdifici'>
+      <Instruction>Avete tutti i vostri stabili da riparare: pagare &#x20AC; 60 per ogni casa e &#x20AC; 250 per ogni albergo</Instruction>
+      <HouseValue>60</HouseValue>
+      <HotelValue>250</HotelValue>
+    </Card>
+    <Card type='Imprevisti' action='CartaPagaPerEdifici'>
+      <Instruction>Dovete pagare un contributo di miglioria stradale, 
+          &#x20AC; 100 per ogni casa e &#x20AC; 250 per ogni albergo che possedete</Instruction>
+      <HouseValue>100</HouseValue>
+      <HotelValue>250</HotelValue>
+    </Card>
+    <Card type='Imprevisti' action='CartaMuoviAvanti'>
+      <Instruction>Andate sino a Via Accademia: se passate dal "Via!" ritirate &#x20AC; 500</Instruction>
+      <Destination>Via Accademia</Destination>
+    </Card>
+    <Card type='Imprevisti' action='CartaMuoviAvanti'>
+      <Instruction>Andate sino al Largo Colombo: se passate dal "Via!" ritirate &#x20AC; 500</Instruction>
+      <Destination>Largo Colombo</Destination>
+    </Card>
+    <Card type='Imprevisti' action='CartaMuoviAvanti'>
+      <Instruction>Andate avanti sino al "Via!"</Instruction>
+      <Destination>Via</Destination>
+    </Card>
+    <Card type='Imprevisti' action='CartaMuoviAvanti'>
+      <Instruction>Andate fino al Parco della Vittoria</Instruction>
+      <Destination>Parco Della Vittoria</Destination>
+    </Card>
+    <Card type='Imprevisti' action='CartaMuoviIndietro'>
+      <Instruction>Fate tre passi indietro (con tanti auguri)</Instruction>
+      <Destination>3</Destination>
+    </Card>
+    <Card type='Imprevisti' action='CartaMuoviAvanti'>
+      <Instruction>Andate alla Stazione NORD: se passate dal "Via!" ritirate &#x20AC; 500</Instruction>
+      <Destination>Stazione Nord</Destination>
+    </Card>
+    <Card type='Probabilità' action='CartaMuoviIndietro'>
+      <Instruction>Ritornate al Vicolo Corto</Instruction>
+      <Destination>Vicolo Corto</Destination>
+    </Card>
+    <Card type='Probabilità' action='CartaMuoviAvanti'>
+      <Instruction>Andate fino al "Via!"</Instruction>
+      <Destination>Via</Destination>
+    </Card>
+    <Card type='Imprevisti' action='CartaPrigione'>
+      <Instruction>Andate in prigione direttamente e senza passare dal "Via!"</Instruction>
+    </Card>
+    <Card type='Probabilità' action='CartaPrigione'>
+      <Instruction>Andate in prigione direttamente e senza passare dal "Via!"</Instruction>
+    </Card>
+    <Card type='Probabilità' action='CartaPagaPesca'>
+      <Instruction>Pagate una multa di &#x20AC; 25, oppure prendete una carta dagli "Imprevisti"</Instruction>
+      <Value>25</Value>
+    </Card>
+  </Cards>
+</Monopoli>
