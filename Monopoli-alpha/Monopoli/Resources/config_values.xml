@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+
+<Values>
+		<MaxPlayers>6</MaxPlayers>
+        <MinPlayers>2</MinPlayers>
+        <Salary>500</Salary>       	<!-- indennità -->
+		<CellNum>40</CellNum>
+        </cornersNum>4</CornersNum>
+		<CellRatio>1.6</CellRatio>
+        <Fine>125</fine>             	<!-- cauzione -->
+        <NumCommunityChest>20</NumCommunityChest>
+        <NumChance>20</NumChance>
+		<InitialMoney>
+			<Money playersNum="2">8750</Money>
+			<Money playersNum="3">7500</Money>
+			<Money playersNum="4">6250</Money>
+			<Money playersNum="5">5000</Money>
+			<Money playersNum="6">3750</Money>
+        </InitialManey>
+		<Markers>
+			<Marker>pera</Marker>
+			<Marker>candela</Marker>
+			<Marker>cactus</Marker>
+			<Marker>botte</Marker>
+			<Marker>funghetto</Marker>
+			<Marker>palla</Marker>
+		</Markers>
+	<Properties>
+		<Property buildable='true'>
+			<Nome>Vicolo Corto</Name>
+			<Group>Fuchsia</Group>
+			<value>150</value>
+			<SellValue>75</SellValue>
+			<Rent houseNum='0'>5<Rent>
+			<Rent houseNum='1'>25<Rent>
+			<Rent houseNum='2'>75<Rent>
+			<Rent houseNum='3'>225<Rent>
+			<Rent houseNum='4'>400<Rent>
+			<Rent houseNum='5'>625<Rent>
+			<HouseCost>125</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Vicolo Stretto</Name>
+			<Group>Fuchsia</Group>
+			<value>150</value>
+			<SellValue>75</SellValue>
+			<Rent houseNum='0'>10<Rent>
+			<Rent houseNum='1'>50<Rent>
+			<Rent houseNum='2'>150<Rent>
+			<Rent houseNum='3'>450<Rent>
+			<Rent houseNum='4'>800<Rent>
+			<Rent houseNum='5'>1125<Rent>
+			<HouseCost>125</HouseCost>
+		</Property>
+		<Property buildable='false'>
+			<Nome>Stazione sud</Name>
+			<Group>Stazione</Group>
+			<value>480</value>
+			<SellValue>240</SellValue>
+			<Rent propertyNum='1'>60<Rent>
+			<Rent propertyNum='2'>120<Rent>
+			<Rent propertyNum='3'>240<Rent>
+			<Rent propertyNum='4'>480<Rent>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Bastioni Gran Sasso</Name>
+			<Group>LightBlue</Group>
+			<value>250</value>
+			<SellValue>125</SellValue>
+			<Rent houseNum='0'>15<Rent>
+			<Rent houseNum='1'>75<Rent>
+			<Rent houseNum='2'>225<Rent>
+			<Rent houseNum='3'>675<Rent>
+			<Rent houseNum='4'>1000<Rent>
+			<Rent houseNum='5'>1375<Rent>
+			<HouseCost>125</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Viale Monterosa</Name>
+			<Group>LightBlue</Group>
+			<value>250</value>
+			<SellValue>125</SellValue>
+			<Rent houseNum='0'>15<Rent>
+			<Rent houseNum='1'>75<Rent>
+			<Rent houseNum='2'>225<Rent>
+			<Rent houseNum='3'>675<Rent>
+			<Rent houseNum='4'>1000<Rent>
+			<Rent houseNum='5'>1375<Rent>
+			<HouseCost>125</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Viale Vesuvio</Name>
+			<Group>LightBlue</Group>
+			<value>300</value>
+			<SellValue>150</SellValue>
+			<Rent houseNum='0'>20<Rent>
+			<Rent houseNum='1'>100<Rent>
+			<Rent houseNum='2'>250<Rent>
+			<Rent houseNum='3'>750<Rent>
+			<Rent houseNum='4'>1125<Rent>
+			<Rent houseNum='5'>1500<Rent>
+			<HouseCost>125</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Via Accademia</Name>
+			<Group>Orange</Group>
+			<value>350</value>
+			<SellValue>175</SellValue>
+			<Rent houseNum='0'>25<Rent>
+			<Rent houseNum='1'>125<Rent>
+			<Rent houseNum='2'>375<Rent>
+			<Rent houseNum='3'>1125<Rent>
+			<Rent houseNum='4'>1550<Rent>
+			<Rent houseNum='5'>1875<Rent>
+			<HouseCost>250</HouseCost>
+		</Property>
+		<Property buildable='false'>
+			<Nome>Società Elettrica</Name>
+			<Group>Società</Group>
+			<value>380</value>
+			<SellValue>190</SellValue>
+			<Rent propertyNum='1'>50<Rent>
+			<Rent propertyNum='2'>250<Rent>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Corso Ateneo</Name>
+			<Group>Orange</Group>
+			<value>350</value>
+			<SellValue>175</SellValue>
+			<Rent houseNum='0'>25<Rent>
+			<Rent houseNum='1'>125<Rent>
+			<Rent houseNum='2'>375<Rent>
+			<Rent houseNum='3'>1125<Rent>
+			<Rent houseNum='4'>1550<Rent>
+			<Rent houseNum='5'>1875<Rent>
+			<HouseCost>250</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Piazza Università</Name>
+			<Group>Orange</Group>
+			<value>400</value>
+			<SellValue>200</SellValue>
+			<Rent houseNum='0'>30<Rent>
+			<Rent houseNum='1'>150<Rent>
+			<Rent houseNum='2'>450<Rent>
+			<Rent houseNum='3'>1250<Rent>
+			<Rent houseNum='4'>1750<Rent>
+			<Rent houseNum='5'>2250<Rent>
+			<HouseCost>250</HouseCost>
+		</Property>
+		<Property buildable='false'>
+			<Nome>Stazione Ovest</Name>
+			<Group>Stazione</Group>
+			<value>480</value>
+			<SellValue>240</SellValue>
+			<Rent propertyNum='1'>60<Rent>
+			<Rent propertyNum='2'>120<Rent>
+			<Rent propertyNum='3'>240<Rent>
+			<Rent propertyNum='4'>480<Rent>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Piazza Verdi</Name>
+			<Group>Brown</Group>
+			<value>450</value>
+			<SellValue>225</SellValue>
+			<Rent houseNum='0'>35<Rent>
+			<Rent houseNum='1'>175<Rent>
+			<Rent houseNum='2'>500<Rent>
+			<Rent houseNum='3'>1375<Rent>
+			<Rent houseNum='4'>1875<Rent>
+			<Rent houseNum='5'>2375<Rent>
+			<HouseCost>250</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Corso Raffaello</Name>
+			<Group>Brown</Group>
+			<value>450</value>
+			<SellValue>225</SellValue>
+			<Rent houseNum='0'>35<Rent>
+			<Rent houseNum='1'>175<Rent>
+			<Rent houseNum='2'>500<Rent>
+			<Rent houseNum='3'>1375<Rent>
+			<Rent houseNum='4'>1875<Rent>
+			<Rent houseNum='5'>2375<Rent>
+			<HouseCost>250</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Piazza Dante</Name>
+			<Group>Brown</Group>
+			<value>500</value>
+			<SellValue>250</SellValue>
+			<Rent houseNum='0'>40<Rent>
+			<Rent houseNum='1'>200<Rent>
+			<Rent houseNum='2'>550<Rent>
+			<Rent houseNum='3'>1500<Rent>
+			<Rent houseNum='4'>2000<Rent>
+			<Rent houseNum='5'>2500<Rent>
+			<HouseCost>250</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Via Marco Polo</Name>
+			<Group>Red</Group>
+			<value>550</value>
+			<SellValue>275</SellValue>
+			<Rent houseNum='0'>45<Rent>
+			<Rent houseNum='1'>225<Rent>
+			<Rent houseNum='2'>625<Rent>
+			<Rent houseNum='3'>1750<Rent>
+			<Rent houseNum='4'>2200<Rent>
+			<Rent houseNum='5'>2625<Rent>
+			<HouseCost>375</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Corso Magellano</Name>
+			<Group>Red</Group>
+			<value>550</value>
+			<SellValue>275</SellValue>
+			<Rent houseNum='0'>45<Rent>
+			<Rent houseNum='1'>225<Rent>
+			<Rent houseNum='2'>625<Rent>
+			<Rent houseNum='3'>1750<Rent>
+			<Rent houseNum='4'>2200<Rent>
+			<Rent houseNum='5'>2625<Rent>
+			<HouseCost>375</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Largo Colombo</Name>
+			<Group>Red</Group>
+			<value>600</value>
+			<SellValue>300</SellValue>
+			<Rent houseNum='0'>50<Rent>
+			<Rent houseNum='1'>250<Rent>
+			<Rent houseNum='2'>750<Rent>
+			<Rent houseNum='3'>1875<Rent>
+			<Rent houseNum='4'>2250<Rent>
+			<Rent houseNum='5'>2750<Rent>
+			<HouseCost>375</HouseCost>
+		</Property>
+		<Property buildable='false'>
+			<Nome>Stazione Nord</Name>
+			<Group>Stazione</Group>
+			<value>480</value>
+			<SellValue>240</SellValue>
+			<Rent propertyNum='1'>60<Rent>
+			<Rent propertyNum='2'>120<Rent>
+			<Rent propertyNum='3'>240<Rent>
+			<Rent propertyNum='4'>480<Rent>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Viale Costantino</Name>
+			<Group>Yellow</Group>
+			<value>650</value>
+			<SellValue>325</SellValue>
+			<Rent houseNum='0'>55<Rent>
+			<Rent houseNum='1'>275<Rent>
+			<Rent houseNum='2'>825<Rent>
+			<Rent houseNum='3'>2000<Rent>
+			<Rent houseNum='4'>2500<Rent>
+			<Rent houseNum='5'>3000<Rent>
+			<HouseCost>375</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Viale Traiano</Name>
+			<Group>Yellow</Group>
+			<value>650</value>
+			<SellValue>325</SellValue>
+			<Rent houseNum='0'>55<Rent>
+			<Rent houseNum='1'>275<Rent>
+			<Rent houseNum='2'>825<Rent>
+			<Rent houseNum='3'>2000<Rent>
+			<Rent houseNum='4'>2500<Rent>
+			<Rent houseNum='5'>3000<Rent>
+			<HouseCost>375</HouseCost>
+		</Property>
+		<Property buildable='false'>
+			<Nome>Società Acqua Potabile</Name>
+			<Group>Società</Group>
+			<value>380</value>
+			<SellValue>190</SellValue>
+			<Rent propertyNum='1'>50<Rent>
+			<Rent propertyNum='2'>250<Rent>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Piazza Giulio Cesare</Name>
+			<Group>Yellow</Group>
+			<value>700</value>
+			<SellValue>350</SellValue>
+			<Rent houseNum='0'>60<Rent>
+			<Rent houseNum='1'>300<Rent>
+			<Rent houseNum='2'>900<Rent>
+			<Rent houseNum='3'>2125<Rent>
+			<Rent houseNum='4'>2625<Rent>
+			<Rent houseNum='5'>3125<Rent>
+			<HouseCost>375</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Via Roma</Name>
+			<Group>Green</Group>
+			<value>750</value>
+			<SellValue>375</SellValue>
+			<Rent houseNum='0'>65<Rent>
+			<Rent houseNum='1'>325<Rent>
+			<Rent houseNum='2'>1000<Rent>
+			<Rent houseNum='3'>2250<Rent>
+			<Rent houseNum='4'>2750<Rent>
+			<Rent houseNum='5'>3250<Rent>
+			<HouseCost>500</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Corso Impero</Name>
+			<Group>Green</Group>
+			<value>750</value>
+			<SellValue>375</SellValue>
+			<Rent houseNum='0'>65<Rent>
+			<Rent houseNum='1'>325<Rent>
+			<Rent houseNum='2'>1000<Rent>
+			<Rent houseNum='3'>2250<Rent>
+			<Rent houseNum='4'>2750<Rent>
+			<Rent houseNum='5'>3250<Rent>
+			<HouseCost>500</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Largo Augusto</Name>
+			<Group>Green</Group>
+			<value>800</value>
+			<SellValue>400</SellValue>
+			<Rent houseNum='0'>70<Rent>
+			<Rent houseNum='1'>375<Rent>
+			<Rent houseNum='2'>1125<Rent>
+			<Rent houseNum='3'>2500<Rent>
+			<Rent houseNum='4'>3000<Rent>
+			<Rent houseNum='5'>3500<Rent>
+			<HouseCost>500</HouseCost>
+		</Property>
+		<Property buildable='false'>
+			<Nome>Stazione Est</Name>
+			<Group>Stazione</Group>
+			<value>480</value>
+			<SellValue>240</SellValue>
+			<Rent propertyNum='1'>60<Rent>
+			<Rent propertyNum='2'>120<Rent>
+			<Rent propertyNum='3'>240<Rent>
+			<Rent propertyNum='4'>480<Rent>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Viale Dei Giardini</Name>
+			<Group>Purple</Group>
+			<value>900</value>
+			<SellValue>450</SellValue>
+			<Rent houseNum='0'>90</Rent>
+			<Rent houseNum='1'>500<Rent>
+			<Rent houseNum='2'>1250<Rent>
+			<Rent houseNum='3'>2750<Rent>
+			<Rent houseNum='4'>3250<Rent>
+			<Rent houseNum='5'>3750<Rent>
+			<HouseCost>500</HouseCost>
+		</Property>
+		<Property buildable='true'>
+			<Nome>Parco Della Vittoria</Name>
+			<Group>Purple</Group>
+			<value>1000</value>
+			<SellValue>500</SellValue>
+			<Rent houseNum='0'>125<Rent>
+			<Rent houseNum='1'>500<Rent>
+			<Rent houseNum='2'>1500<Rent>
+			<Rent houseNum='3'>3500<Rent>
+			<Rent houseNum='4'>4250<Rent>
+			<Rent houseNum='5'>5000<Rent>
+			<HouseCost>500</HouseCost>
+		</Property>
+	</Properties>
+	
+	<CommunityChestInstuctions>
+		<Instruction></Instruction>
+		<Instruction></Instruction>
+		<Instruction></Instruction>
+		<!-- ... -->
+	</CommunityChestInstuctions>
+	
+	<ChanceInstuctions>
+		<Instruction></Instruction>
+		<Instruction></Instruction>
+		<Instruction></Instruction>
+		<!-- ... -->
+	</ChanceInstuctions>
+</Values>

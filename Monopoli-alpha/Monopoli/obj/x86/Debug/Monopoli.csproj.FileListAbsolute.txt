@@ -1,0 +1,345 @@
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+D:\Dropbox\Monopoli\Monopoli\Monopoli\obj\x86\Debug\Monopoli.exe
+D:\Dropbox\Monopoli\Monopoli\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Monopoli_paciugo_eli\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\Monopoli_paciugo_eli\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.Form2.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.2\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.2\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.2\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.2\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.2\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.2\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.2\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.2\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.2\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asus\Desktop\Monopoli\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Asus\Desktop\Monopoli\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli merged\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli merged\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli merged\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli merged\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli merged\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli merged\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli merged\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli merged\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli merged\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.3\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.4\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Asus\Desktop\MonopoliMerged\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Asus\Desktop\MonopoliMerged\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.5\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Asus\Desktop\Monopoli Merged\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asus\Desktop\Monopoli Merged 2\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elisa\Desktop\Monopoli Merged 3\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.6\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.7\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Asus\Desktop\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopolix100\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli 0.8\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elisa\Desktop\Nuova cartella (2)\Monopoli\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.1\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.2 Refactoring\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.3 Refactoring\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\monopoli\Monopoli Refactoring\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.4\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Elisa\Desktop\Monopoli Refactoring\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa\Desktop\monopoli\Monopoli_definitivo\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Desktop\monopoli\Monopoli_definitivo\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\bin\Debug\Monopoli.exe
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\bin\Debug\Monopoli.pdb
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.Properties.Resources.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.View.BuildingDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.View.CardInstructionDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.View.DeedInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.View.GameStatisticsDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.MainView.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.View.PropertyInfoDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\Monopoli.View.SellPropertyDialog.resources
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lorenzo Donini\Desktop\Monopoli Versions\Monopoli b0.5\Monopoli\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli Versione Alpha\Monopoli\obj\x86\Debug\Monopoli.exe
+C:\Users\Elisa\Documents\Dropbox\Monopoli\Monopoli Versione Alpha\Monopoli\obj\x86\Debug\Monopoli.pdb
